@@ -1,5 +1,7 @@
 # Firmware Altirra 4.40
 
+![fw_altirra](Img/fw.webp)
+
 ## English
 
 Here you will find a list of the firmware supported by Altirra 4.40, both automatic and those that must be added manually.
@@ -8,7 +10,9 @@ Here you will find a list of the firmware supported by Altirra 4.40, both automa
 
 * Manual: Add them using the “Add...” button and know what type of device they are.
 
+
 ---
+
 
 ## Español
 
