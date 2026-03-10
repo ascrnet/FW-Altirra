@@ -1,4 +1,4 @@
-# Firmware Altirra 4.40
+# Firmware Altirra 4.xx
 
 ![fw_altirra](Img/fw.webp)
 
